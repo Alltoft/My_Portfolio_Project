@@ -13,4 +13,3 @@ Do you think you are fast at typing ??
 ## Accounts
 
 [![alt text](image.png)](https://github.com/Alltoft)
-[![alt text](image-1.png)](https://www.instagram.com/skyrimotechnique/)
