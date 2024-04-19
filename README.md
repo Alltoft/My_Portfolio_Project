@@ -12,4 +12,4 @@ Do you think you are fast at typing ??
 
 ## Accounts
 
-[![alt text](file:///C:/Users/PC/Downloads/github-svgrepo-com.svg)](https://github.com/Alltoft)
+[![alt text](https://icons8.com/icon/62856/github)](https://github.com/Alltoft)
