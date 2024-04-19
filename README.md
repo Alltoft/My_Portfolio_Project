@@ -5,7 +5,7 @@
 Do you think you are fast at typing ??
 ## Put it to the test!!!
 
-## Descriptin:
+## Description:
 *this app counts how many w/s (words per second) you can type,*
 *the app gives you a paragraph or you type one of your choice*
 *and then you put yourself to **the test***
