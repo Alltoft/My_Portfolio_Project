@@ -12,4 +12,4 @@ Do you think you are fast at typing ??
 
 ## Accounts
 
-[![alt text](image-2.png)](https://github.com/Alltoft)
+[![alt text](image-2.png)](https://github.com/Alltoft) [![alt text](image.png)](https://www.instagram.com/)
