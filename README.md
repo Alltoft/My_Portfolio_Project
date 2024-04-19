@@ -12,4 +12,3 @@ Do you think you are fast at typing ??
 
 ## Accounts
 
-[![alt text](image.png)](https://github.com/Alltoft)
