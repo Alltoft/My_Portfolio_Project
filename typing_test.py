@@ -12,7 +12,7 @@ def key_check(key, par_letter):
 
     
 
-def key_press_measure():
+def typing_test():
     # paragraph = input("type your paragraph here:\n")
     paragraph = "something"
     par_length = len(paragraph)
@@ -52,4 +52,3 @@ def key_press_measure():
     result = word_per_min * accuracy / 100
     print("Accuracy:", str(accuracy)[:5] + "%", "LPS:", letter_per_sec, "WPM:", word_per_min,
           "Faults:", number_of_faults, "Duration:", str(total_time)[:5] + "s", f"Result: {result}w/m")
-key_press_measure()
